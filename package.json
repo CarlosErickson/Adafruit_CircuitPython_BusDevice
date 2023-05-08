@@ -1,0 +1,11 @@
+{
+  "urls": [
+    ["__init__.py", "github:CarlosErickson/Adafruit_CircuitPython_BusDevice/adafruit_bus_device/__init__.py"],
+    ["i2c_device.py", "github:CarlosErickson/Adafruit_CircuitPython_BusDevice/adafruit_bus_device/i2c_device.py"],
+    ["spi_device.py", "github:CarlosErickson/Adafruit_CircuitPython_BusDevice/adafruit_bus_device/spi_device.py"],
+  ],
+  "deps": [
+    ["adafruit-circuitpython-busdevice", "latest"]
+  ],
+  "version": "0.1"
+}
